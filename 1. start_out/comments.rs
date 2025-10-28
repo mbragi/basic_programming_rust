@@ -1,3 +1,19 @@
+/// Demonstrates comments, escape sequences, various `print!`/`println!` formatting styles, and printing a compound data type.
+///
+/// Shows single-line and multi-line comments, printing without and with newlines, use of `\n`, `\t`, `\r`, `\"`, and `\\`,
+/// positional and named formatting arguments, and debug/pretty-print formatting for a tuple.
+///
+/// # Examples
+///
+/// ```
+/// // Running `main` will print several formatted lines to stdout.
+/// // This example simply calls the function to verify it executes without panicking.
+/// fn main_wrapper() {
+///     crate::main();
+/// }
+///
+/// main_wrapper();
+/// ```
 fn main() {
   // Comments
 

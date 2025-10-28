@@ -1,3 +1,15 @@
+/// Demonstrates basic Rust data structures and common operations.
+///
+/// Creates and manipulates immutable and mutable strings, indexed arrays and vectors,
+/// tuple access and destructuring, and the unit value. Useful as a concise example of
+/// common collection and tuple usages in Rust.
+///
+/// # Examples
+///
+/// ```
+/// // Running the example simply executes the demonstration in `main`.
+/// main();
+/// ```
 fn main() {
   // Strings
   let fixed_str = "Fixed length string";
