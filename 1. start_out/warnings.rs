@@ -1,4 +1,5 @@
 #![allow(unused_variables)]
+#[allow(dead_code)]
 fn square(x: i32) -> i32 {
     let temp = 42;
     x * x
