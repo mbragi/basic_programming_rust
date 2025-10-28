@@ -17,10 +17,11 @@ fn main() {
 
   // Tuples
   let my_info = ("Salary", 40000, "Age", 40);
+  // Accessing tuple elements by index
   let salary_value = my_info.1;
-
+  // Destructuring tuples
   let (salary, salary_value, age, age_value) = my_info;
 
-  // Empty Tuple
+  // Empty Tuple 
   let unit = ();
 }
