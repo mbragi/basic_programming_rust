@@ -1,7 +1,7 @@
 fn main() {
   // Arithmetic Operators
   // +, -, *, /, %
-  // Note: ^ is not for exponential
+  // Note: ^ is not for exponential used rather for bitwise XOR (exclusive or) 
   // pow() method is used for exponential
   println!("Remainder after dividing 17 by 5: {}", 17 % 5);
 
