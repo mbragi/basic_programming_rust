@@ -1,0 +1,2 @@
+variables are defined in snake case and can be used to stored data types, function expression or code blocks.
+constants are directly inserted defined as UPPRER_SNAKE_CASE_CASED and are inserted at runtime without consuming memory.

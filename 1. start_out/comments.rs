@@ -33,10 +33,10 @@ fn main() {
 
   // Positional Arguments
   println!(
-      "I am doing {} from {} year and i {} it",
+      "I am doing {2} from {1} year and i {0} it",
       "like", 20, "programming"
   );
-
+  // Named Arguments
   println!(
       "{language} is a system programming language which is cool to {activity} in",
       activity = "code",
